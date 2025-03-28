@@ -14,7 +14,6 @@ I'm a **Computer Science Undergraduate** at **Nanyang Technological University (
 
 **Nanyang Technological University, Singapore**
 - **Bachelor of Computing, Computer Science**
-- Work-Study Scheme
 - **Expected Graduation**: December 2025
 
 ---
@@ -32,30 +31,19 @@ I'm a **Computer Science Undergraduate** at **Nanyang Technological University (
 ## 🔍 Technical Projects & Experience
 
 ### A*STAR Institute of High Performance Computing (IHPC)
-##### MedicalResNet3D – Parkinson’s Disease Detection
-As part of my Final Year Project, I developed **MedicalResNet3D**, an advanced computer vision model capable of detecting early-stage Parkinson’s Disease with 98% accuracy, utilizing a combination of 3D and 2D imaging data.
+- **MedicalResNet3D – Parkinson’s Disease Detection:** Developed an advanced computer vision model capable of detecting early-stage Parkinson’s Disease with 98% accuracy using 3D and 2D imaging data.
 
 ### Digital Trust Centre (Singapore AI Safety Institute)
-##### Federated Learning for Secure AI
-Adapted federated learning techniques to build secure AI models for applications including click-through rate prediction, MNIST handwritten digit recognition, and secure credit card transaction modeling. Additionally, developed cryptographic methods to enhance security in vertical federated learning scenarios.
-
-##### NVIDIA FLARE
-##### AI-based Fraud Detection
-Developed a decentralized fraud detection system leveraging NVIDIA FLARE, securely analyzing distributed financial transaction data to enhance detection capabilities without compromising user privacy.
-
-### Neural Collaborative Filtering and Transformer Architectures
-##### Advanced Recommendation Systems
-Implemented Neural Collaborative Filtering and Self-Attention Transformer models remotely to significantly improve recommendation accuracy and personalization. Conducted extensive research on machine learning security vulnerabilities and defensive strategies.
+- **Federated Learning for Secure AI:** Built federated learning models for secure AI applications such as click-through rate prediction, MNIST handwritten digit recognition, and credit card transaction modeling. Enhanced model security using cryptographic methods.
+- **AI-based Fraud Detection (NVIDIA FLARE):** Developed decentralized fraud detection systems using NVIDIA FLARE to securely analyze distributed transaction data, maintaining privacy while improving detection accuracy.
+- **Advanced Recommendation Systems:** Implemented Neural Collaborative Filtering and Self-Attention Transformer architectures to improve recommendation accuracy and personalization. Conducted comprehensive research on machine learning security and vulnerability assessment.
 
 ### Energy Research Institute @ NTU
-##### Autonomous Vehicle Simulation
-Performed advanced virtual simulations involving autonomous vehicles using CARLA, ROS, SUMO, and Unreal Engine. Evaluated compliance with safety regulations, optimizing vehicle performance in urban scenarios.
+- **Autonomous Vehicle Simulation:** Conducted advanced virtual simulations involving autonomous vehicles using CARLA, ROS, SUMO, and Unreal Engine. Evaluated vehicle safety compliance and optimized performance in realistic urban scenarios.
 
 ### NTU Coursework
-##### Data Visualization and Predictive Analytics
-Applied advanced machine learning and deep learning techniques to analyze public datasets. Created predictive models for real estate pricing and customer loyalty, accompanied by impactful visualizations to communicate analytical insights clearly.
+- **Data Visualization and Predictive Analytics:** Applied machine learning and deep learning techniques to public datasets, creating predictive models for real estate and customer loyalty analysis. Developed impactful visualizations to communicate data-driven insights effectively.
 
 ---
 
 📬 Always open to collaborate on exciting projects or discussions around tech and innovation!
-
