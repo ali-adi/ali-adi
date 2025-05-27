@@ -13,52 +13,6 @@ Hey there! I'm Muhammad Aditya Alifadhilah (Ali), a graduating Computer Science 
 *   :email: **Email:** [ali-adi@outlook.com](mailto:ali-adi@outlook.com)
 *   :link: **LinkedIn:** [linkedin.com/in/ali-adi](https://www.linkedin.com/in/ali-adi)
 
-## :sparkles: Contributions & Projects
-
-I love getting my hands dirty with real-world projects. Here's a peek at some of my work:
-
-### Privacy-Preserving Machine Learning
-
-<img src="https://via.placeholder.com/200x150" alt="Privacy ML" width="200"/>
-
-*   Engineered privacy-preserving ML pipelines using Federated Learning in Python and C++.
-*   Implemented decentralized fraud detection using NVIDIA FLARE.
-
-### Medical AI Research
-
-<img src="https://via.placeholder.com/200x150" alt="Medical AI" width="200"/>
-
-*   Developed ML models for early Parkinson's detection, combining 3D imaging and tabular data.
-*   Optimized model training with CUDA on GPU clusters.
-
-### Academic Projects
-
-#### Cross-Lingual Speech Emotion Recognition [[Visit GitHub](YourGithubLinkHere)]
-
-<img src="https://via.placeholder.com/200x150" alt="Speech Emotion" width="200"/>
-
-*   Built a robust Speech Emotion Recognition (SER) pipeline using HuBERT.
-*   Integrated advanced domain adaptation methods.
-
-#### Merchant Loyalty Prediction [[Visit GitHub](YourGithubLinkHere)]
-
-<img src="https://via.placeholder.com/200x150" alt="Loyalty Prediction" width="200"/>
-
-*   Engineered 100+ predictive features from transactional data.
-*   Trained and tuned regression models for optimal accuracy.
-
-#### Stock Sentiment Search Engine [[Visit GitHub](YourGithubLinkHere)]
-
-<img src="https://via.placeholder.com/200x150" alt="Stock Sentiment" width="200"/>
-
-*   Developed an NLP pipeline for real-time sentiment analysis of financial news.
-*   Applied transformer-based models for sentiment classification.
-
-#### Check out my repositories for more!
-
-*   Earthquake Damage Predictor [[View Code](YourGithubLinkHere)]
-*   Shortest Path with Energy Budget [[View Code](YourGithubLinkHere)]
-
 ## :trophy:  Experience
 
 *   **AI Research Engineer Intern**, Digital Trust Centre, Singapore (Jul 2024 - Dec 2025)
