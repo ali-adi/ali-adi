@@ -1,49 +1,99 @@
-# 👋 Hi, I'm Ali
+<div align="center">
 
-📍 **Singapore** | [LinkedIn](https://linkedin.com/in/ali-adi/)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&center=true&vCenter=true&width=600&height=45&lines=Muhammad+Aditya+Alifadhilah;AI+Enthusiast;Data+Scientist;Quantitative+Trader;Always+Learning!" alt="Typing SVG" />
 
----
+</div>
 
-## 🚀 About Me
+## About Me 👋
 
-I'm a **Computer Science Undergraduate** at **Nanyang Technological University (NTU)**, passionate about building innovative, secure, and efficient AI-driven technologies. My work focuses on privacy-preserving AI, federated learning, and autonomous systems.
+Hey there! I'm Muhammad Aditya Alifadhilah (Ali), a graduating Computer Science student from Nanyang Technological University (NTU) with a passion for all things AI. I thrive on building intelligent systems, tackling complex problems, and staying at the forefront of innovation. I'm currently exploring opportunities in quantitative trading!
 
----
+*   :mortar\_board: **Education:** Bachelor of Computing (Honours), Computer Science, NTU (Expected: Dec 2025)
+*   :computer: **Skills:** Python, Machine Learning, Deep Learning, Data Science, Security, Simulation
+*   :email: **Email:** [ali-adi@outlook.com](mailto:ali-adi@outlook.com)
+*   :link: **LinkedIn:** [linkedin.com/in/ali-adi](https://www.linkedin.com/in/ali-adi)
 
-## 🎓 Education
+## :sparkles: Contributions & Projects
 
-**Nanyang Technological University, Singapore**
-- **Bachelor of Computing, Computer Science**
-- **Expected Graduation**: December 2025
+I love getting my hands dirty with real-world projects. Here's a peek at some of my work:
 
----
+### Privacy-Preserving Machine Learning
 
-## 🛠 Skills
+<img src="https://via.placeholder.com/200x150" alt="Privacy ML" width="200"/>
 
-- **Programming Languages**: Python, C++, Java, Arduino
-- **ML & AI**: TensorFlow, PyTorch, YOLO, NVIDIA FLARE
-- **Tools & Platforms**: Linux, CARLA, ROS, SUMO, RoadRunner, Unreal Engine 4
-- **Data Science & Visualization**: Pandas, Matplotlib, Seaborn
-- **Security & Cryptography**: Secure Multi-Party Computation, Homomorphic Encryption
+*   Engineered privacy-preserving ML pipelines using Federated Learning in Python and C++.
+*   Implemented decentralized fraud detection using NVIDIA FLARE.
 
----
+### Medical AI Research
 
-## 🔍 Technical Projects & Experience
+<img src="https://via.placeholder.com/200x150" alt="Medical AI" width="200"/>
 
-### A*STAR Institute of High Performance Computing (IHPC)
-- **MedicalResNet3D – Parkinson’s Disease Detection:** Developed an advanced computer vision model capable of detecting early-stage Parkinson’s Disease with 98% accuracy using 3D and 2D imaging data.
+*   Developed ML models for early Parkinson's detection, combining 3D imaging and tabular data.
+*   Optimized model training with CUDA on GPU clusters.
 
-### Digital Trust Centre (Singapore AI Safety Institute)
-- **Federated Learning for Secure AI:** Built federated learning models for secure AI applications such as click-through rate prediction, MNIST handwritten digit recognition, and credit card transaction modeling. Enhanced model security using cryptographic methods.
-- **AI-based Fraud Detection (NVIDIA FLARE):** Developed decentralized fraud detection systems using NVIDIA FLARE to securely analyze distributed transaction data, maintaining privacy while improving detection accuracy.
-- **Advanced Recommendation Systems:** Implemented Neural Collaborative Filtering and Self-Attention Transformer architectures to improve recommendation accuracy and personalization. Conducted comprehensive research on machine learning security and vulnerability assessment.
+### Academic Projects
 
-### Energy Research Institute @ NTU
-- **Autonomous Vehicle Simulation:** Conducted advanced virtual simulations involving autonomous vehicles using CARLA, ROS, SUMO, and Unreal Engine. Evaluated vehicle safety compliance and optimized performance in realistic urban scenarios.
+#### Cross-Lingual Speech Emotion Recognition [[Visit GitHub](YourGithubLinkHere)]
 
-### NTU Coursework
-- **Data Visualization and Predictive Analytics:** Applied machine learning and deep learning techniques to public datasets, creating predictive models for real estate and customer loyalty analysis. Developed impactful visualizations to communicate data-driven insights effectively.
+<img src="https://via.placeholder.com/200x150" alt="Speech Emotion" width="200"/>
 
----
+*   Built a robust Speech Emotion Recognition (SER) pipeline using HuBERT.
+*   Integrated advanced domain adaptation methods.
 
-📬 Always open to collaborate on exciting projects or discussions around tech and innovation!
+#### Merchant Loyalty Prediction [[Visit GitHub](YourGithubLinkHere)]
+
+<img src="https://via.placeholder.com/200x150" alt="Loyalty Prediction" width="200"/>
+
+*   Engineered 100+ predictive features from transactional data.
+*   Trained and tuned regression models for optimal accuracy.
+
+#### Stock Sentiment Search Engine [[Visit GitHub](YourGithubLinkHere)]
+
+<img src="https://via.placeholder.com/200x150" alt="Stock Sentiment" width="200"/>
+
+*   Developed an NLP pipeline for real-time sentiment analysis of financial news.
+*   Applied transformer-based models for sentiment classification.
+
+#### Check out my repositories for more!
+
+*   Earthquake Damage Predictor [[View Code](YourGithubLinkHere)]
+*   Shortest Path with Energy Budget [[View Code](YourGithubLinkHere)]
+
+## :trophy:  Experience
+
+*   **AI Research Engineer Intern**, Digital Trust Centre, Singapore (Jul 2024 - Dec 2025)
+*   **Medical AI Research Attachment**, A\*STAR IHPC, Singapore (Jan 2025 - Dec 2025)
+*   **Healthcare Data Scientist Intern**, National Healthcare Group, Singapore (May 2025 - Aug 2025)
+*   **Technology Consultant Intern**, Ernst & Young (EY), Singapore (Jun 2025 - Dec 2025)
+*   **Autonomous Systems Research Intern**, Energy Research Institute @ NTU, Singapore (Jan 2024 - May 2024)
+
+## :chart\_with\_upwards\_trend: Skills Showcase
+
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,sql,bash,pytorch,tensorflow,scikit,pandas,numpy,docker,git,github,linux" />
+</a>
+</p>
+
+## :handshake: Let's Connect!
+
+I'm always open to discussing new opportunities and collaborating on exciting projects. Feel free to reach out!
+
+[
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile/" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/yourgithubusername" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+]
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=blue" alt=""/>
+</div>
