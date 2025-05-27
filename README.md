@@ -47,6 +47,9 @@ I'm always open to discussing new opportunities and collaborating on exciting pr
   </a>
 ]
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark)](https://git.io/streak-stats)
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ali-adi&style=flat-square&color=blue" alt=""/>
 </div>
