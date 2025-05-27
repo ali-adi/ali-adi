@@ -95,5 +95,5 @@ I'm always open to discussing new opportunities and collaborating on exciting pr
 ]
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ali-adi&style=flat-square&color=blue" alt=""/>
 </div>
