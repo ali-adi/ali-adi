@@ -32,21 +32,24 @@ Hey there! I'm Muhammad Aditya Alifadhilah (Ali), a graduating Computer Science 
 
 I'm always open to discussing new opportunities and collaborating on exciting projects. Feel free to reach out!
 
-[
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile/" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://github.com/yourgithubusername" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-]
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-adi&theme=dark)](https://git.io/streak-stats)
 <div align="center">
+  [
+    <a href="https://www.linkedin.com/in/ali-adi/" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+    <a href="https://github.com/ali-adi" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub"
+      />
+    </a>
+  ]
+  <br>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-adi&theme=dark)](https://git.io/streak-stats)
+  <br>
   <img src="https://komarev.com/ghpvc/?username=ali-adi&style=flat-square&color=blue" alt=""/>
 </div>
+
