@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&center=true&vCenter=true&width=600&height=45&lines=Muhammad+Aditya+Alifadhilah;AI+Enthusiast;Data+Scientist;Quantitative+Trader;Always+Learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&center=true&vCenter=true&width=600&height=45&lines=Muhammad+Aditya+Alifadhilah;AI+Enthusiast;Data+Scientist;Always+Learning!" alt="Typing SVG" />
 
 </div>
 
@@ -71,7 +71,7 @@ I love getting my hands dirty with real-world projects. Here's a peek at some of
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,sql,bash,pytorch,tensorflow,scikit,pandas,numpy,docker,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,sql,pytorch,tensorflow,scikit,pandas,numpy,docker,git,github,linux" />
 </a>
 </p>
 
