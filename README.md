@@ -9,8 +9,7 @@
 Hey there! I'm Muhammad Aditya Alifadhilah (Ali), a graduating Computer Science student from Nanyang Technological University (NTU) with a passion for all things AI. I thrive on building intelligent systems, tackling complex problems, and staying at the forefront of innovation. I'm currently exploring opportunities in quantitative trading!
 
 *   :mortar\_board: **Education:** Bachelor of Computing (Honours), Computer Science, NTU (Expected: Dec 2025)
-*   :computer: **Skills:** Python, Machine Learning, Deep Learning, Data Science, Security, Simulation
-*   :email: **Email:** [ali-adi@outlook.com](mailto:ali-adi@outlook.com)
+*   :computer: **Skills:** Python, Machine Learning, Deep Learning, Data Science, AI Security
 *   :link: **LinkedIn:** [linkedin.com/in/ali-adi](https://www.linkedin.com/in/ali-adi)
 
 ## :trophy:  Experience
