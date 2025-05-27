@@ -71,7 +71,7 @@ I love getting my hands dirty with real-world projects. Here's a peek at some of
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,sql,pytorch,tensorflow,scikit,pandas,numpy,docker,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,docker,git,github,linux" />
 </a>
 </p>
 
